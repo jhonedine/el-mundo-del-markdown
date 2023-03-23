@@ -9,10 +9,3 @@ Ingeniero Industrial con habilidades a nivel estadístico, análisis de datos ex
 | ------                 | ------ |
 | Ingeniero Industrial   | Universidad Catolica de Colombia |
 | Ciencia de Datos       | Universidad Nacional de Colombia |
-
-
-## Contacto 
-
-#### Jhonedine182@gmail.com
-#### www.linkedin.com/in/jhon-mendoza182
-### cel 333131 
